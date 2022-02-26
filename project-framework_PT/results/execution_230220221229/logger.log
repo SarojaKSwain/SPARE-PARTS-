@@ -1,0 +1,32 @@
+2022-02-23 12:29:57 INFO  Logger:145 - Initializing JSON file and adding to framework
+2022-02-23 12:29:57 INFO  Logger:145 - Setting up run configuration
+2022-02-23 12:29:58 INFO  Eshopflow:145 - Starting before test method ::Eshopflow
+2022-02-23 12:29:58 INFO  Eshopflow:145 - **** Initializing drivers ****chrome 
+2022-02-23 12:29:58 INFO  Eshopflow:145 - Initializing driver session for local execution
+2022-02-23 12:30:00 INFO  Eshopflow:145 - Driver is initizialied
+2022-02-23 12:30:00 INFO  Eshopflow:145 - **** driver instance in Initializing drivers ****
+2022-02-23 12:30:00 INFO  Eshopflow:145 - Starting before test method ::Eshopflow
+2022-02-23 12:30:00 ERROR Eshopflow:85 - Exception while launching application URL
+2022-02-23 12:30:00 INFO  Eshopflow:145 - In after test method ::Eshopflow
+2022-02-23 12:30:00 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-23 12:30:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2022-02-23 12:30:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-23 12:30:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-23 12:30:00 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/UXS1KOR/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-23 12:30:01 INFO  Eshopflow:145 - No child test to execute, flushing report
+2022-02-23 12:30:01 INFO  Eshopflow:145 - Terminate driver session in after test method
+2022-02-23 12:30:01 INFO  Printflow:145 - Starting before test method ::Printflow
+2022-02-23 12:30:01 INFO  Printflow:145 - **** Initializing drivers ****chrome 
+2022-02-23 12:30:01 INFO  Printflow:145 - Initializing driver session for local execution
+2022-02-23 12:30:04 INFO  Printflow:145 - Driver is initizialied
+2022-02-23 12:30:04 INFO  Printflow:145 - **** driver instance in Initializing drivers ****
+2022-02-23 12:30:04 INFO  Printflow:145 - Starting before test method ::Printflow
+2022-02-23 12:30:04 ERROR Printflow:85 - Exception while launching application URL
+2022-02-23 12:30:04 INFO  Printflow:145 - In after test method ::Printflow
+2022-02-23 12:30:04 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-23 12:30:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2022-02-23 12:30:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-23 12:30:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-23 12:30:04 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/UXS1KOR/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-23 12:30:04 INFO  Printflow:145 - No child test to execute, flushing report
+2022-02-23 12:30:04 INFO  Printflow:145 - Terminate driver session in after test method

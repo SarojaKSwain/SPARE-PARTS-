@@ -1,0 +1,8 @@
+{
+"proxyConfig": {
+		"port": 8080,
+		"name": "",
+		"proxy": "rb-proxy-apac.bosch.com",
+		"pwd": ""
+	}
+}

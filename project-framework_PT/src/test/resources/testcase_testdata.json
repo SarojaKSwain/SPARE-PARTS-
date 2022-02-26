@@ -1,0 +1,288 @@
+{
+	"HomePageMethod": [
+		{
+		"url": "https://stage.boschtoolservice.com/au/en/bosch-pt/spareparts/search"
+		}
+	],
+	"AdvancedSearch": [
+		{
+		"url": "/au/en/bosch-pt/spareparts/search",
+		"country": "AUS",
+		"company": "Audi",
+		"firstName": "Saroj",
+		"surName": "Swain",
+		"street": "Testing",
+		"houseNo": "27",
+		"postCode": "4567",
+		"city": "Sydney",
+		"email": "external.Saroja.KumarSwain@in.bosch.com",
+		"confirmEmail": "external.Saroja.KumarSwain@in.bosch.com",
+		"phoneNo": "1234567899",
+		"cardNo": "4111111111111111",
+		"cardHolderName": "Saroj",
+		"Month": "03",
+		"Year": "2030",
+		"cardCvv": "737"
+		}
+		],
+		"Advancedaddress": [
+		{
+		"path": "au/en/bosch-pt/spareparts/search",
+		"country": "AUS",
+		"company": "Audi",
+		"firstName": "Saroj",
+		"surName": "Swain",
+		"street": "Testing",
+		"houseNo": "27",
+		"postCode": "4567",
+		"city": "Sydney",
+		"email": "external.Saroja.KumarSwain@in.bosch.com",
+		"confirmEmail": "external.Saroja.KumarSwain@in.bosch.com",
+		"phoneNo": "1234567899",
+		"cardNo": "4111111111111111",
+		"cardHolderName": "Saroj",
+		"Month": "03",
+		"Year": "2030",
+		"cardCvv": "737"
+		},
+		{
+		"path": "au/en/boschprof/spareparts/search",
+		"country": "AUS",
+		"company": "Audi",
+		"firstName": "Saroj",
+		"surName": "Swain",
+		"street": "Testing",
+		"houseNo": "27",
+		"postCode": "4567",
+		"city": "Sydney",
+		"email": "external.Saroja.KumarSwain@in.bosch.com",
+		"confirmEmail": "external.Saroja.KumarSwain@in.bosch.com",
+		"phoneNo": "1234567899",
+		"cardNo": "4111111111111111",
+		"cardHolderName": "Saroj",
+		"Month": "03",
+		"Year": "2030",
+		"cardCvv": "737"
+		}
+	],
+	"GooglePage": [
+		{
+		}
+	],
+	"SampleTestMethod": [
+		{
+			"searchKey": "testing"
+			
+		}
+	],
+	"SampleTestMethod2": [
+		{
+			"searchKey": "bosch"
+		}
+	],
+	"SampleTestMethod3": [
+		{
+			"searchKey": "automation"
+		}
+	],
+	"SampleTestMethod4": [
+		{
+			"searchKey": "rbei"			
+		}
+	],
+	"YoutubePage": [
+		{
+		}
+	],
+		"Printflows": [
+		{
+		}
+	],
+	"verifyAlertMessage": [
+		{
+			"searchKey": "testing"
+		}
+	],
+	"VerifyDefaultValue": [
+		{
+		}
+	],
+	"UpdateSimulatorValue": [
+		{
+		}
+	],
+	"VerifyConnectionStatusAfterForgotDevice": [
+		{
+		}
+	],
+	"TestTwoDriverInst": [
+		{
+		}
+	],
+	"SkillNavigation": [
+		{
+		}
+	],
+	"Filter_Voltage": [
+		{
+		}
+	],
+		"Filter_Products": [
+		{
+		}
+	],
+		"Explosion": [
+		{
+		"baretool": "0601135064"
+		}
+	],
+		"Explosion_Headers": [
+		{
+			"baretool": "0601135064"
+		}
+	],
+		"Validation": [
+		{
+		"baretool": "0600845B50"
+		}
+	],
+		"ValidationSkill": [
+		{
+		"baretool": "0603270756"
+		}
+	],
+		"ValidationDremel": [
+		{
+		"baretool": "F013027500"
+		}
+	],
+	"Printflow": [
+		{
+		"baretool": "0611316755"
+		}
+	],
+		"PrintSkill": [
+		{
+		"baretool": "0603270756"
+		}
+	],
+		"PrintDremel": [
+		{
+		"baretool": "F013027500"
+		}
+	],
+		"Eorderflow_RO": [
+		{
+		"baretool": "0600886040",
+		"company": "Audi",
+		"firstName": "Saroj",
+		"surName": "Swain",
+		"street": "Testing",
+		"houseNo": "27",
+		"city": "TestCenter",
+		"email": "external.Saroja.KumarSwain@in.bosch.com",
+		"confirmEmail": "external.Saroja.KumarSwain@in.bosch.com",
+		"phoneNo": "1234567899"
+		}
+	],
+		"DremelEshop": [
+		{
+		"baretool": "F013010001",
+		"company": "Audi",
+		"firstName": "Saroj",
+		"surName": "Swain",
+		"street": "Testing",
+		"houseNo": "27",
+		"postCode": "4567",
+		"city": "TestCenter",
+		"email": "external.Saroja.KumarSwain@in.bosch.com",
+		"confirmEmail": "external.Saroja.KumarSwain@in.bosch.com",
+		"phoneNo": "1234567899",
+		"cardNo": "4111111111111111",
+		"cardHolderName": "Saroj",
+		"Month": "03",
+		"Year": "2030",
+		"cardCvv": "737"
+		}
+	],
+	"SkillEshop": [
+		{
+		"baretool": "0601141656",
+		"company": "Audi",
+		"firstName": "Saroj",
+		"surName": "Swain",
+		"street": "Testing",
+		"houseNo": "27",
+		"postCode": "4567",
+		"city": "TestCenter",
+		"email": "external.Saroja.KumarSwain@in.bosch.com",
+		"confirmEmail": "external.Saroja.KumarSwain@in.bosch.com",
+		"phoneNo": "1234567899",
+		"cardNo": "4111111111111111",
+		"cardHolderName": "Dilip",
+		"Month": "03",
+		"Year": "2030",
+		"cardCvv": "737"
+		}
+	],
+	"Eshopflow": [
+		{
+		"company": "Audi",
+		"firstName": "Saroj",
+		"surName": "Swain",
+		"street": "Testing",
+		"houseNo": "27",
+		"postCode": "4567",
+		"city": "TestCenter",
+		"email": "external.Saroja.KumarSwain@in.bosch.com",
+		"confirmEmail": "external.Saroja.KumarSwain@in.bosch.com",
+		"phoneNo": "1234567899",
+		"cardNo": "4111111111111111",
+		"cardHolderName": "Saroj",
+		"Month": "03",
+		"Year": "2030",
+		"cardCvv": "737"
+		}
+	],
+	"EorderDremelflow": [
+		{
+		"baretool": "F013020001",
+		"company": "Audi",
+		"firstName": "Saroj",
+		"surName": "Swain",
+		"street": "Testing",
+		"houseNo": "27",
+		"city": "TestCenter",
+		"email": "external.Saroja.KumarSwain@in.bosch.com",
+		"confirmEmail": "external.Saroja.KumarSwain@in.bosch.com",
+		"phoneNo": "1234567899"
+		}
+	],
+		"EorderSkillflow": [
+		{
+		"baretool": "0601141656",
+		"company": "Audi",
+		"firstName": "Saroj",
+		"surName": "Swain",
+		"street": "Testing",
+		"houseNo": "27",
+		"city": "TestCenter",
+		"email": "external.Saroja.KumarSwain@in.bosch.com",
+		"confirmEmail": "external.Saroja.KumarSwain@in.bosch.com",
+		"phoneNo": "1234567899"
+		}
+	],
+		"Eorderflow": [
+		{
+		"company": "Audi",
+		"firstName": "Saroj",
+		"surName": "Swain",
+		"street": "Testing",
+		"houseNo": "27",
+		"city": "TestCenter",
+		"email": "external.Saroja.KumarSwain@in.bosch.com",
+		"confirmEmail": "external.Saroja.KumarSwain@in.bosch.com",
+		"phoneNo": "1234567899"
+		}
+	]	
+}

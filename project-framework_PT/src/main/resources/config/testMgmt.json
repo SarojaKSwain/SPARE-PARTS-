@@ -1,0 +1,11 @@
+{
+	"jiraConfig": {
+		"description": "Test execution created for automation",
+		"jiraURL": "https://rb-tracker.bosch.com/tracker03-x/rest/",
+		"name": "",
+		"projectName": "THING",
+		"pwd": "",
+		"summary": "Automation Execution Feb7",
+		"testplanID": "THING-5635"
+	}
+}

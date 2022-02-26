@@ -1,0 +1,17 @@
+{
+	"config": {
+		"decodeDeviceBookingInMin": 5,
+		"env": "Q",
+		"execIn": "chrome",
+		"execIn_comments": "firefox,chrome,internet_explorer,api",
+		"executionMode": "localexecution",
+		"executionmode_comments": "localexecution",
+		"platform": "",
+		"hasWebservice": false,
+		"proxyConfig_comments":"Proxy is mandatory for app center, jira integration. Proxy name and pwd are encrypted",
+		"updateTestExecutionInJira": "No",
+		"waitTimeOut": 15,
+		"deviceName": "",
+		"setProxyForAPI": true
+		}
+}

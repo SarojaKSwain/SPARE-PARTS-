@@ -1,0 +1,512 @@
+2022-02-16 12:56:56 INFO  Logger:145 - Initializing JSON file and adding to framework
+2022-02-16 12:56:56 INFO  Logger:145 - Setting up run configuration
+2022-02-16 12:56:57 INFO  Printflow:145 - Starting before test method ::Printflow
+2022-02-16 12:56:57 INFO  Printflow:145 - **** Initializing drivers ****chrome 
+2022-02-16 12:56:57 INFO  Printflow:145 - Initializing driver session for local execution
+2022-02-16 12:56:59 INFO  Printflow:145 - Driver is initizialied
+2022-02-16 12:56:59 INFO  Printflow:145 - **** driver instance in Initializing drivers ****
+2022-02-16 12:56:59 INFO  Printflow:145 - Starting before test method ::Printflow
+2022-02-16 12:57:07 INFO  Printflow:145 - Navigate to url https://stage.boschtoolservice.com/ua/uk/boschprof/spareparts/search
+2022-02-16 12:57:08 INFO  Printflow:145 - CloseConsent Element is displayed
+2022-02-16 12:57:08 INFO  Printflow:145 - click on element CloseConsent
+2022-02-16 12:57:08 INFO  Printflow:145 - Consent Closed
+2022-02-16 12:57:09 INFO  Printflow:145 - Input element is displayed
+2022-02-16 12:57:09 INFO  Printflow:145 - input Element is displayed
+2022-02-16 12:57:09 INFO  Printflow:145 - 0600845B50 is entered in element input
+2022-02-16 12:57:09 INFO  Printflow:145 - search Element is displayed
+2022-02-16 12:57:11 INFO  Printflow:145 - click on element search
+2022-02-16 12:57:11 INFO  Printflow:145 - Input Field found
+2022-02-16 12:57:11 INFO  Printflow:145 - Application Opened Successfully and Baretool number foundhttps://stage.boschtoolservice.com/ua/uk/boschprof/spareparts/search
+2022-02-16 12:57:11 INFO  Printflow:145 - SingleFilter Element is displayed
+2022-02-16 12:57:12 INFO  Printflow:145 - click on element SingleFilter
+2022-02-16 12:57:12 INFO  Printflow:145 - Result Selected
+2022-02-16 12:57:18 INFO  Printflow:145 - ProductInformation element is displayed
+2022-02-16 12:57:18 INFO  Printflow:145 - ProductInformation Available
+2022-02-16 12:57:19 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 12:57:20 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 12:57:21 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 12:57:21 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 12:57:22 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 12:57:22 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 12:57:23 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 12:57:23 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 12:57:24 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 12:57:25 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 12:57:31 INFO  Printflow:145 - Add to cart Successful
+2022-02-16 12:57:31 INFO  Printflow:145 - minishoppingcart Element is displayed
+2022-02-16 12:57:40 INFO  Printflow:145 - click on element minishoppingcart
+2022-02-16 12:57:40 INFO  Printflow:145 - Clicked on Minishopping cart
+2022-02-16 12:57:44 INFO  Printflow:145 - PrintPdf element is displayed
+2022-02-16 12:57:44 INFO  Printflow:145 - PrintPdf option Available
+2022-02-16 12:57:44 INFO  Printflow:145 - In after test method ::Printflow
+2022-02-16 12:57:44 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-16 12:57:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2022-02-16 12:57:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-16 12:57:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-16 12:57:44 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/UXS1KOR/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-16 12:57:45 INFO  Printflow:145 - No child test to execute, flushing report
+2022-02-16 12:57:45 INFO  Printflow:145 - Terminate driver session in after test method
+2022-02-16 12:57:45 INFO  Printflow:145 - Starting before test method ::Printflow
+2022-02-16 12:57:45 INFO  Printflow:145 - **** Initializing drivers ****chrome 
+2022-02-16 12:57:45 INFO  Printflow:145 - Initializing driver session for local execution
+2022-02-16 12:57:47 INFO  Printflow:145 - Driver is initizialied
+2022-02-16 12:57:47 INFO  Printflow:145 - **** driver instance in Initializing drivers ****
+2022-02-16 12:57:47 INFO  Printflow:145 - Starting before test method ::Printflow
+2022-02-16 12:57:55 INFO  Printflow:145 - Navigate to url https://stage.boschtoolservice.com/ua/uk/bosch-pt/spareparts/search
+2022-02-16 12:57:56 INFO  Printflow:145 - CloseConsent Element is displayed
+2022-02-16 12:57:56 INFO  Printflow:145 - click on element CloseConsent
+2022-02-16 12:57:56 INFO  Printflow:145 - Consent Closed
+2022-02-16 12:57:57 INFO  Printflow:145 - Input element is displayed
+2022-02-16 12:57:57 INFO  Printflow:145 - input Element is displayed
+2022-02-16 12:57:57 INFO  Printflow:145 - 0600845B50 is entered in element input
+2022-02-16 12:57:57 INFO  Printflow:145 - search Element is displayed
+2022-02-16 12:57:59 INFO  Printflow:145 - click on element search
+2022-02-16 12:57:59 INFO  Printflow:145 - Input Field found
+2022-02-16 12:57:59 INFO  Printflow:145 - Application Opened Successfully and Baretool number foundhttps://stage.boschtoolservice.com/ua/uk/bosch-pt/spareparts/search
+2022-02-16 12:57:59 INFO  Printflow:145 - SingleFilter Element is displayed
+2022-02-16 12:58:00 INFO  Printflow:145 - click on element SingleFilter
+2022-02-16 12:58:00 INFO  Printflow:145 - Result Selected
+2022-02-16 12:58:06 INFO  Printflow:145 - ProductInformation element is displayed
+2022-02-16 12:58:06 INFO  Printflow:145 - ProductInformation Available
+2022-02-16 12:58:07 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 12:58:07 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 12:58:08 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 12:58:08 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 12:58:09 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 12:58:09 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 12:58:11 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 12:58:11 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 12:58:12 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 12:58:12 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 12:58:18 INFO  Printflow:145 - Add to cart Successful
+2022-02-16 12:58:18 INFO  Printflow:145 - minishoppingcart Element is displayed
+2022-02-16 12:58:27 INFO  Printflow:145 - click on element minishoppingcart
+2022-02-16 12:58:27 INFO  Printflow:145 - Clicked on Minishopping cart
+2022-02-16 12:58:31 INFO  Printflow:145 - PrintPdf element is displayed
+2022-02-16 12:58:31 INFO  Printflow:145 - PrintPdf option Available
+2022-02-16 12:58:31 INFO  Printflow:145 - In after test method ::Printflow
+2022-02-16 12:58:31 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-16 12:58:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2022-02-16 12:58:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-16 12:58:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-16 12:58:31 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/UXS1KOR/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-16 12:58:31 INFO  Printflow:145 - No child test to execute, flushing report
+2022-02-16 12:58:32 INFO  Printflow:145 - Terminate driver session in after test method
+2022-02-16 12:58:32 INFO  Printflow:145 - Starting before test method ::Printflow
+2022-02-16 12:58:32 INFO  Printflow:145 - **** Initializing drivers ****chrome 
+2022-02-16 12:58:32 INFO  Printflow:145 - Initializing driver session for local execution
+2022-02-16 12:58:34 INFO  Printflow:145 - Driver is initizialied
+2022-02-16 12:58:34 INFO  Printflow:145 - **** driver instance in Initializing drivers ****
+2022-02-16 12:58:34 INFO  Printflow:145 - Starting before test method ::Printflow
+2022-02-16 12:58:41 INFO  Printflow:145 - Navigate to url https://stage.boschtoolservice.com/ua/uk/boschdiy/spareparts/search
+2022-02-16 12:58:41 INFO  Printflow:145 - CloseConsent Element is displayed
+2022-02-16 12:58:41 INFO  Printflow:145 - click on element CloseConsent
+2022-02-16 12:58:41 INFO  Printflow:145 - Consent Closed
+2022-02-16 12:58:42 INFO  Printflow:145 - Input element is displayed
+2022-02-16 12:58:42 INFO  Printflow:145 - input Element is displayed
+2022-02-16 12:58:42 INFO  Printflow:145 - 0600845B50 is entered in element input
+2022-02-16 12:58:42 INFO  Printflow:145 - search Element is displayed
+2022-02-16 12:58:44 INFO  Printflow:145 - click on element search
+2022-02-16 12:58:44 INFO  Printflow:145 - Input Field found
+2022-02-16 12:58:44 INFO  Printflow:145 - Application Opened Successfully and Baretool number foundhttps://stage.boschtoolservice.com/ua/uk/boschdiy/spareparts/search
+2022-02-16 12:58:44 WARN  Printflow:150 - Unable to locate webelement. Object Name: SingleFilter
+2022-02-16 12:58:49 INFO  Printflow:145 - wait for Object SingleFilter. Time:5 seconds
+2022-02-16 12:58:49 INFO  Printflow:145 - SingleFilter Element is displayed
+2022-02-16 12:58:51 INFO  Printflow:145 - click on element SingleFilter
+2022-02-16 12:58:51 INFO  Printflow:145 - Result Selected
+2022-02-16 12:58:57 INFO  Printflow:145 - ProductInformation element is displayed
+2022-02-16 12:58:57 INFO  Printflow:145 - ProductInformation Available
+2022-02-16 12:58:58 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 12:58:58 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 12:58:59 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 12:58:59 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 12:59:01 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 12:59:01 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 12:59:02 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 12:59:02 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 12:59:03 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 12:59:03 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 12:59:09 INFO  Printflow:145 - Add to cart Successful
+2022-02-16 12:59:09 INFO  Printflow:145 - minishoppingcart Element is displayed
+2022-02-16 12:59:18 INFO  Printflow:145 - click on element minishoppingcart
+2022-02-16 12:59:18 INFO  Printflow:145 - Clicked on Minishopping cart
+2022-02-16 12:59:22 INFO  Printflow:145 - PrintPdf element is displayed
+2022-02-16 12:59:22 INFO  Printflow:145 - PrintPdf option Available
+2022-02-16 12:59:22 INFO  Printflow:145 - In after test method ::Printflow
+2022-02-16 12:59:22 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-16 12:59:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2022-02-16 12:59:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-16 12:59:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-16 12:59:22 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/UXS1KOR/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-16 12:59:22 INFO  Printflow:145 - No child test to execute, flushing report
+2022-02-16 12:59:23 INFO  Printflow:145 - Terminate driver session in after test method
+2022-02-16 12:59:23 INFO  PrintSkill:145 - Starting before test method ::PrintSkill
+2022-02-16 12:59:23 INFO  PrintSkill:145 - **** Initializing drivers ****chrome 
+2022-02-16 12:59:23 INFO  PrintSkill:145 - Initializing driver session for local execution
+2022-02-16 12:59:25 INFO  PrintSkill:145 - Driver is initizialied
+2022-02-16 12:59:25 INFO  PrintSkill:145 - **** driver instance in Initializing drivers ****
+2022-02-16 12:59:25 INFO  PrintSkill:145 - Starting before test method ::PrintSkill
+2022-02-16 12:59:32 INFO  PrintSkill:145 - Navigate to url https://stage.boschtoolservice.com/ua/uk/skil/spareparts/search
+2022-02-16 12:59:32 INFO  PrintSkill:145 - CloseConsent Element is displayed
+2022-02-16 12:59:32 INFO  PrintSkill:145 - click on element CloseConsent
+2022-02-16 12:59:32 INFO  PrintSkill:145 - Consent Closed
+2022-02-16 12:59:33 INFO  PrintSkill:145 - Input element is displayed
+2022-02-16 12:59:33 INFO  PrintSkill:145 - input Element is displayed
+2022-02-16 12:59:33 INFO  PrintSkill:145 - 0603270756 is entered in element input
+2022-02-16 12:59:33 INFO  PrintSkill:145 - search Element is displayed
+2022-02-16 12:59:35 INFO  PrintSkill:145 - click on element search
+2022-02-16 12:59:35 INFO  PrintSkill:145 - Input Field found
+2022-02-16 12:59:35 INFO  PrintSkill:145 - Application Opened Successfully and Baretool number foundhttps://stage.boschtoolservice.com/ua/uk/skil/spareparts/search
+2022-02-16 12:59:35 INFO  PrintSkill:145 - SingleFilter Element is displayed
+2022-02-16 12:59:36 INFO  PrintSkill:145 - click on element SingleFilter
+2022-02-16 12:59:36 INFO  PrintSkill:145 - Result Selected
+2022-02-16 12:59:42 INFO  PrintSkill:145 - ProductInformation element is displayed
+2022-02-16 12:59:42 INFO  PrintSkill:145 - ProductInformation Available
+2022-02-16 12:59:43 INFO  PrintSkill:145 - dremeladdtocart Element is displayed
+2022-02-16 12:59:43 INFO  PrintSkill:145 - click on element dremeladdtocart
+2022-02-16 12:59:44 INFO  PrintSkill:145 - dremeladdtocart Element is displayed
+2022-02-16 12:59:44 INFO  PrintSkill:145 - click on element dremeladdtocart
+2022-02-16 12:59:45 INFO  PrintSkill:145 - dremeladdtocart Element is displayed
+2022-02-16 12:59:45 INFO  PrintSkill:145 - click on element dremeladdtocart
+2022-02-16 12:59:47 INFO  PrintSkill:145 - dremeladdtocart Element is displayed
+2022-02-16 12:59:47 INFO  PrintSkill:145 - click on element dremeladdtocart
+2022-02-16 12:59:48 INFO  PrintSkill:145 - dremeladdtocart Element is displayed
+2022-02-16 12:59:48 INFO  PrintSkill:145 - click on element dremeladdtocart
+2022-02-16 12:59:54 INFO  PrintSkill:145 - Add to cart Successful
+2022-02-16 12:59:54 INFO  PrintSkill:145 - minishoppingcart Element is displayed
+2022-02-16 13:00:02 INFO  PrintSkill:145 - click on element minishoppingcart
+2022-02-16 13:00:02 INFO  PrintSkill:145 - Clicked on Minishopping cart
+2022-02-16 13:00:06 INFO  PrintSkill:145 - PrintPdf element is displayed
+2022-02-16 13:00:06 INFO  PrintSkill:145 - PrintPdf option Available
+2022-02-16 13:00:06 INFO  PrintSkill:145 - In after test method ::PrintSkill
+2022-02-16 13:00:06 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-16 13:00:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2022-02-16 13:00:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-16 13:00:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-16 13:00:06 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/UXS1KOR/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-16 13:00:06 INFO  PrintSkill:145 - No child test to execute, flushing report
+2022-02-16 13:00:07 INFO  PrintSkill:145 - Terminate driver session in after test method
+2022-02-16 13:00:07 INFO  PrintDremel:145 - Starting before test method ::PrintDremel
+2022-02-16 13:00:07 INFO  PrintDremel:145 - **** Initializing drivers ****chrome 
+2022-02-16 13:00:07 INFO  PrintDremel:145 - Initializing driver session for local execution
+2022-02-16 13:00:09 INFO  PrintDremel:145 - Driver is initizialied
+2022-02-16 13:00:09 INFO  PrintDremel:145 - **** driver instance in Initializing drivers ****
+2022-02-16 13:00:09 INFO  PrintDremel:145 - Starting before test method ::PrintDremel
+2022-02-16 13:00:15 INFO  PrintDremel:145 - Navigate to url https://stage.boschtoolservice.com/ua/uk/dremel/spareparts/search
+2022-02-16 13:00:15 INFO  PrintDremel:145 - CloseConsent Element is displayed
+2022-02-16 13:00:15 INFO  PrintDremel:145 - click on element CloseConsent
+2022-02-16 13:00:15 INFO  PrintDremel:145 - Consent Closed
+2022-02-16 13:00:16 INFO  PrintDremel:145 - Input element is displayed
+2022-02-16 13:00:16 INFO  PrintDremel:145 - input Element is displayed
+2022-02-16 13:00:16 INFO  PrintDremel:145 - F013027500 is entered in element input
+2022-02-16 13:00:16 INFO  PrintDremel:145 - search Element is displayed
+2022-02-16 13:00:18 INFO  PrintDremel:145 - click on element search
+2022-02-16 13:00:18 INFO  PrintDremel:145 - Input Field found
+2022-02-16 13:00:18 INFO  PrintDremel:145 - Application Opened Successfully and Baretool number foundhttps://stage.boschtoolservice.com/ua/uk/dremel/spareparts/search
+2022-02-16 13:00:18 INFO  PrintDremel:145 - SingleFilter Element is displayed
+2022-02-16 13:00:20 INFO  PrintDremel:145 - click on element SingleFilter
+2022-02-16 13:00:20 INFO  PrintDremel:145 - Result Selected
+2022-02-16 13:00:26 INFO  PrintDremel:145 - ProductInformation element is displayed
+2022-02-16 13:00:26 INFO  PrintDremel:145 - ProductInformation Available
+2022-02-16 13:00:27 INFO  PrintDremel:145 - dremeladdtocart Element is displayed
+2022-02-16 13:00:27 INFO  PrintDremel:145 - click on element dremeladdtocart
+2022-02-16 13:00:28 INFO  PrintDremel:145 - dremeladdtocart Element is displayed
+2022-02-16 13:00:28 INFO  PrintDremel:145 - click on element dremeladdtocart
+2022-02-16 13:00:29 INFO  PrintDremel:145 - dremeladdtocart Element is displayed
+2022-02-16 13:00:29 INFO  PrintDremel:145 - click on element dremeladdtocart
+2022-02-16 13:00:30 INFO  PrintDremel:145 - dremeladdtocart Element is displayed
+2022-02-16 13:00:31 INFO  PrintDremel:145 - click on element dremeladdtocart
+2022-02-16 13:00:32 INFO  PrintDremel:145 - dremeladdtocart Element is displayed
+2022-02-16 13:00:32 INFO  PrintDremel:145 - click on element dremeladdtocart
+2022-02-16 13:00:38 INFO  PrintDremel:145 - Add to cart Successful
+2022-02-16 13:00:38 INFO  PrintDremel:145 - minishoppingcart Element is displayed
+2022-02-16 13:00:46 INFO  PrintDremel:145 - click on element minishoppingcart
+2022-02-16 13:00:46 INFO  PrintDremel:145 - Clicked on Minishopping cart
+2022-02-16 13:00:50 INFO  PrintDremel:145 - PrintPdf element is displayed
+2022-02-16 13:00:50 INFO  PrintDremel:145 - PrintPdf option Available
+2022-02-16 13:00:50 INFO  PrintDremel:145 - In after test method ::PrintDremel
+2022-02-16 13:00:50 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-16 13:00:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2022-02-16 13:00:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-16 13:00:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-16 13:00:50 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/UXS1KOR/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-16 13:00:50 INFO  PrintDremel:145 - No child test to execute, flushing report
+2022-02-16 13:00:51 INFO  PrintDremel:145 - Terminate driver session in after test method
+2022-02-16 13:00:51 INFO  Printflow:145 - Starting before test method ::Printflow
+2022-02-16 13:00:51 INFO  Printflow:145 - **** Initializing drivers ****chrome 
+2022-02-16 13:00:51 INFO  Printflow:145 - Initializing driver session for local execution
+2022-02-16 13:00:53 INFO  Printflow:145 - Driver is initizialied
+2022-02-16 13:00:53 INFO  Printflow:145 - **** driver instance in Initializing drivers ****
+2022-02-16 13:00:53 INFO  Printflow:145 - Starting before test method ::Printflow
+2022-02-16 13:01:00 INFO  Printflow:145 - Navigate to url https://stage.boschtoolservice.com/kz/ru/boschprof/spareparts/search
+2022-02-16 13:01:00 INFO  Printflow:145 - CloseConsent Element is displayed
+2022-02-16 13:01:01 INFO  Printflow:145 - click on element CloseConsent
+2022-02-16 13:01:01 INFO  Printflow:145 - Consent Closed
+2022-02-16 13:01:02 INFO  Printflow:145 - Input element is displayed
+2022-02-16 13:01:02 INFO  Printflow:145 - input Element is displayed
+2022-02-16 13:01:02 INFO  Printflow:145 - 0600845B50 is entered in element input
+2022-02-16 13:01:02 INFO  Printflow:145 - search Element is displayed
+2022-02-16 13:01:04 INFO  Printflow:145 - click on element search
+2022-02-16 13:01:04 INFO  Printflow:145 - Input Field found
+2022-02-16 13:01:04 INFO  Printflow:145 - Application Opened Successfully and Baretool number foundhttps://stage.boschtoolservice.com/kz/ru/boschprof/spareparts/search
+2022-02-16 13:01:04 INFO  Printflow:145 - SingleFilter Element is displayed
+2022-02-16 13:01:06 INFO  Printflow:145 - click on element SingleFilter
+2022-02-16 13:01:06 INFO  Printflow:145 - Result Selected
+2022-02-16 13:01:12 INFO  Printflow:145 - ProductInformation element is displayed
+2022-02-16 13:01:12 INFO  Printflow:145 - ProductInformation Available
+2022-02-16 13:01:13 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 13:01:13 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 13:01:14 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 13:01:14 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 13:01:15 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 13:01:15 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 13:01:16 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 13:01:17 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 13:01:18 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 13:01:18 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 13:01:24 INFO  Printflow:145 - Add to cart Successful
+2022-02-16 13:01:24 INFO  Printflow:145 - minishoppingcart Element is displayed
+2022-02-16 13:01:33 INFO  Printflow:145 - click on element minishoppingcart
+2022-02-16 13:01:33 INFO  Printflow:145 - Clicked on Minishopping cart
+2022-02-16 13:01:38 INFO  Printflow:145 - PrintPdf element is displayed
+2022-02-16 13:01:38 INFO  Printflow:145 - PrintPdf option Available
+2022-02-16 13:01:38 INFO  Printflow:145 - In after test method ::Printflow
+2022-02-16 13:01:38 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-16 13:01:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2022-02-16 13:01:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-16 13:01:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-16 13:01:38 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/UXS1KOR/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-16 13:01:38 INFO  Printflow:145 - No child test to execute, flushing report
+2022-02-16 13:01:38 INFO  Printflow:145 - Terminate driver session in after test method
+2022-02-16 13:01:38 INFO  Printflow:145 - Starting before test method ::Printflow
+2022-02-16 13:01:38 INFO  Printflow:145 - **** Initializing drivers ****chrome 
+2022-02-16 13:01:38 INFO  Printflow:145 - Initializing driver session for local execution
+2022-02-16 13:01:40 INFO  Printflow:145 - Driver is initizialied
+2022-02-16 13:01:40 INFO  Printflow:145 - **** driver instance in Initializing drivers ****
+2022-02-16 13:01:40 INFO  Printflow:145 - Starting before test method ::Printflow
+2022-02-16 13:01:47 INFO  Printflow:145 - Navigate to url https://stage.boschtoolservice.com/kz/ru/bosch-pt/spareparts/search
+2022-02-16 13:01:47 INFO  Printflow:145 - CloseConsent Element is displayed
+2022-02-16 13:01:47 INFO  Printflow:145 - click on element CloseConsent
+2022-02-16 13:01:47 INFO  Printflow:145 - Consent Closed
+2022-02-16 13:01:48 INFO  Printflow:145 - Input element is displayed
+2022-02-16 13:01:48 INFO  Printflow:145 - input Element is displayed
+2022-02-16 13:01:48 INFO  Printflow:145 - 0600845B50 is entered in element input
+2022-02-16 13:01:48 INFO  Printflow:145 - search Element is displayed
+2022-02-16 13:01:49 INFO  Printflow:145 - click on element search
+2022-02-16 13:01:49 INFO  Printflow:145 - Input Field found
+2022-02-16 13:01:49 INFO  Printflow:145 - Application Opened Successfully and Baretool number foundhttps://stage.boschtoolservice.com/kz/ru/bosch-pt/spareparts/search
+2022-02-16 13:01:50 INFO  Printflow:145 - SingleFilter Element is displayed
+2022-02-16 13:01:51 INFO  Printflow:145 - click on element SingleFilter
+2022-02-16 13:01:51 INFO  Printflow:145 - Result Selected
+2022-02-16 13:01:57 INFO  Printflow:145 - ProductInformation element is displayed
+2022-02-16 13:01:57 INFO  Printflow:145 - ProductInformation Available
+2022-02-16 13:01:58 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 13:01:58 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 13:02:00 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 13:02:00 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 13:02:01 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 13:02:01 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 13:02:02 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 13:02:02 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 13:02:03 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 13:02:03 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 13:02:09 INFO  Printflow:145 - Add to cart Successful
+2022-02-16 13:02:09 INFO  Printflow:145 - minishoppingcart Element is displayed
+2022-02-16 13:02:17 INFO  Printflow:145 - click on element minishoppingcart
+2022-02-16 13:02:17 INFO  Printflow:145 - Clicked on Minishopping cart
+2022-02-16 13:02:21 INFO  Printflow:145 - PrintPdf element is displayed
+2022-02-16 13:02:21 INFO  Printflow:145 - PrintPdf option Available
+2022-02-16 13:02:21 INFO  Printflow:145 - In after test method ::Printflow
+2022-02-16 13:02:21 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-16 13:02:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2022-02-16 13:02:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-16 13:02:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-16 13:02:21 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/UXS1KOR/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-16 13:02:21 INFO  Printflow:145 - No child test to execute, flushing report
+2022-02-16 13:02:22 INFO  Printflow:145 - Terminate driver session in after test method
+2022-02-16 13:02:22 INFO  PrintSkill:145 - Starting before test method ::PrintSkill
+2022-02-16 13:02:22 INFO  PrintSkill:145 - **** Initializing drivers ****chrome 
+2022-02-16 13:02:22 INFO  PrintSkill:145 - Initializing driver session for local execution
+2022-02-16 13:02:24 INFO  PrintSkill:145 - Driver is initizialied
+2022-02-16 13:02:24 INFO  PrintSkill:145 - **** driver instance in Initializing drivers ****
+2022-02-16 13:02:24 INFO  PrintSkill:145 - Starting before test method ::PrintSkill
+2022-02-16 13:02:30 INFO  PrintSkill:145 - Navigate to url https://stage.boschtoolservice.com/kz/ru/skil/spareparts/search
+2022-02-16 13:02:30 INFO  PrintSkill:145 - CloseConsent Element is displayed
+2022-02-16 13:02:30 INFO  PrintSkill:145 - click on element CloseConsent
+2022-02-16 13:02:30 INFO  PrintSkill:145 - Consent Closed
+2022-02-16 13:02:31 INFO  PrintSkill:145 - Input element is displayed
+2022-02-16 13:02:31 INFO  PrintSkill:145 - input Element is displayed
+2022-02-16 13:02:32 INFO  PrintSkill:145 - 0603270756 is entered in element input
+2022-02-16 13:02:32 INFO  PrintSkill:145 - search Element is displayed
+2022-02-16 13:02:33 INFO  PrintSkill:145 - click on element search
+2022-02-16 13:02:33 INFO  PrintSkill:145 - Input Field found
+2022-02-16 13:02:33 INFO  PrintSkill:145 - Application Opened Successfully and Baretool number foundhttps://stage.boschtoolservice.com/kz/ru/skil/spareparts/search
+2022-02-16 13:02:33 INFO  PrintSkill:145 - SingleFilter Element is displayed
+2022-02-16 13:02:34 INFO  PrintSkill:145 - click on element SingleFilter
+2022-02-16 13:02:34 INFO  PrintSkill:145 - Result Selected
+2022-02-16 13:02:40 INFO  PrintSkill:145 - ProductInformation element is displayed
+2022-02-16 13:02:40 INFO  PrintSkill:145 - ProductInformation Available
+2022-02-16 13:02:41 INFO  PrintSkill:145 - dremeladdtocart Element is displayed
+2022-02-16 13:02:42 INFO  PrintSkill:145 - click on element dremeladdtocart
+2022-02-16 13:02:43 INFO  PrintSkill:145 - dremeladdtocart Element is displayed
+2022-02-16 13:02:43 INFO  PrintSkill:145 - click on element dremeladdtocart
+2022-02-16 13:02:44 INFO  PrintSkill:145 - dremeladdtocart Element is displayed
+2022-02-16 13:02:44 INFO  PrintSkill:145 - click on element dremeladdtocart
+2022-02-16 13:02:45 INFO  PrintSkill:145 - dremeladdtocart Element is displayed
+2022-02-16 13:02:45 INFO  PrintSkill:145 - click on element dremeladdtocart
+2022-02-16 13:02:46 INFO  PrintSkill:145 - dremeladdtocart Element is displayed
+2022-02-16 13:02:46 INFO  PrintSkill:145 - click on element dremeladdtocart
+2022-02-16 13:02:52 INFO  PrintSkill:145 - Add to cart Successful
+2022-02-16 13:02:52 INFO  PrintSkill:145 - minishoppingcart Element is displayed
+2022-02-16 13:03:00 INFO  PrintSkill:145 - click on element minishoppingcart
+2022-02-16 13:03:00 INFO  PrintSkill:145 - Clicked on Minishopping cart
+2022-02-16 13:03:04 INFO  PrintSkill:145 - PrintPdf element is displayed
+2022-02-16 13:03:04 INFO  PrintSkill:145 - PrintPdf option Available
+2022-02-16 13:03:04 INFO  PrintSkill:145 - In after test method ::PrintSkill
+2022-02-16 13:03:04 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-16 13:03:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2022-02-16 13:03:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-16 13:03:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-16 13:03:04 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/UXS1KOR/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-16 13:03:04 INFO  PrintSkill:145 - No child test to execute, flushing report
+2022-02-16 13:03:05 INFO  PrintSkill:145 - Terminate driver session in after test method
+2022-02-16 13:03:05 INFO  Printflow:145 - Starting before test method ::Printflow
+2022-02-16 13:03:05 INFO  Printflow:145 - **** Initializing drivers ****chrome 
+2022-02-16 13:03:05 INFO  Printflow:145 - Initializing driver session for local execution
+2022-02-16 13:03:07 INFO  Printflow:145 - Driver is initizialied
+2022-02-16 13:03:07 INFO  Printflow:145 - **** driver instance in Initializing drivers ****
+2022-02-16 13:03:07 INFO  Printflow:145 - Starting before test method ::Printflow
+2022-02-16 13:03:16 INFO  Printflow:145 - Navigate to url https://stage.boschtoolservice.com/by/ru/boschprof/spareparts/search
+2022-02-16 13:03:16 INFO  Printflow:145 - CloseConsent Element is displayed
+2022-02-16 13:03:16 INFO  Printflow:145 - click on element CloseConsent
+2022-02-16 13:03:16 INFO  Printflow:145 - Consent Closed
+2022-02-16 13:03:17 INFO  Printflow:145 - Input element is displayed
+2022-02-16 13:03:17 INFO  Printflow:145 - input Element is displayed
+2022-02-16 13:03:17 INFO  Printflow:145 - 0600845B50 is entered in element input
+2022-02-16 13:03:17 INFO  Printflow:145 - search Element is displayed
+2022-02-16 13:03:19 INFO  Printflow:145 - click on element search
+2022-02-16 13:03:19 INFO  Printflow:145 - Input Field found
+2022-02-16 13:03:19 INFO  Printflow:145 - Application Opened Successfully and Baretool number foundhttps://stage.boschtoolservice.com/by/ru/boschprof/spareparts/search
+2022-02-16 13:03:19 INFO  Printflow:145 - SingleFilter Element is displayed
+2022-02-16 13:03:20 INFO  Printflow:145 - click on element SingleFilter
+2022-02-16 13:03:20 INFO  Printflow:145 - Result Selected
+2022-02-16 13:03:26 INFO  Printflow:145 - ProductInformation element is displayed
+2022-02-16 13:03:26 INFO  Printflow:145 - ProductInformation Available
+2022-02-16 13:03:28 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 13:03:28 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 13:03:29 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 13:03:29 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 13:03:30 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 13:03:30 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 13:03:31 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 13:03:31 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 13:03:33 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 13:03:33 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 13:03:39 INFO  Printflow:145 - Add to cart Successful
+2022-02-16 13:03:39 INFO  Printflow:145 - minishoppingcart Element is displayed
+2022-02-16 13:03:48 INFO  Printflow:145 - click on element minishoppingcart
+2022-02-16 13:03:48 INFO  Printflow:145 - Clicked on Minishopping cart
+2022-02-16 13:03:52 INFO  Printflow:145 - PrintPdf element is displayed
+2022-02-16 13:03:52 INFO  Printflow:145 - PrintPdf option Available
+2022-02-16 13:03:52 INFO  Printflow:145 - In after test method ::Printflow
+2022-02-16 13:03:52 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-16 13:03:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2022-02-16 13:03:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-16 13:03:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-16 13:03:52 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/UXS1KOR/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-16 13:03:52 INFO  Printflow:145 - No child test to execute, flushing report
+2022-02-16 13:03:53 INFO  Printflow:145 - Terminate driver session in after test method
+2022-02-16 13:03:53 INFO  Printflow:145 - Starting before test method ::Printflow
+2022-02-16 13:03:53 INFO  Printflow:145 - **** Initializing drivers ****chrome 
+2022-02-16 13:03:53 INFO  Printflow:145 - Initializing driver session for local execution
+2022-02-16 13:03:55 INFO  Printflow:145 - Driver is initizialied
+2022-02-16 13:03:55 INFO  Printflow:145 - **** driver instance in Initializing drivers ****
+2022-02-16 13:03:55 INFO  Printflow:145 - Starting before test method ::Printflow
+2022-02-16 13:04:02 INFO  Printflow:145 - Navigate to url https://stage.boschtoolservice.com/by/ru/bosch-pt/spareparts/search
+2022-02-16 13:04:02 INFO  Printflow:145 - CloseConsent Element is displayed
+2022-02-16 13:04:02 INFO  Printflow:145 - click on element CloseConsent
+2022-02-16 13:04:02 INFO  Printflow:145 - Consent Closed
+2022-02-16 13:04:03 INFO  Printflow:145 - Input element is displayed
+2022-02-16 13:04:03 INFO  Printflow:145 - input Element is displayed
+2022-02-16 13:04:04 INFO  Printflow:145 - 0600845B50 is entered in element input
+2022-02-16 13:04:04 INFO  Printflow:145 - search Element is displayed
+2022-02-16 13:04:05 INFO  Printflow:145 - click on element search
+2022-02-16 13:04:05 INFO  Printflow:145 - Input Field found
+2022-02-16 13:04:05 INFO  Printflow:145 - Application Opened Successfully and Baretool number foundhttps://stage.boschtoolservice.com/by/ru/bosch-pt/spareparts/search
+2022-02-16 13:04:05 INFO  Printflow:145 - SingleFilter Element is displayed
+2022-02-16 13:04:06 INFO  Printflow:145 - click on element SingleFilter
+2022-02-16 13:04:06 INFO  Printflow:145 - Result Selected
+2022-02-16 13:04:13 INFO  Printflow:145 - ProductInformation element is displayed
+2022-02-16 13:04:13 INFO  Printflow:145 - ProductInformation Available
+2022-02-16 13:04:14 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 13:04:14 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 13:04:15 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 13:04:15 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 13:04:16 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 13:04:16 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 13:04:17 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 13:04:18 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 13:04:19 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-16 13:04:19 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-16 13:04:25 INFO  Printflow:145 - Add to cart Successful
+2022-02-16 13:04:25 INFO  Printflow:145 - minishoppingcart Element is displayed
+2022-02-16 13:04:32 INFO  Printflow:145 - click on element minishoppingcart
+2022-02-16 13:04:32 INFO  Printflow:145 - Clicked on Minishopping cart
+2022-02-16 13:04:36 INFO  Printflow:145 - PrintPdf element is displayed
+2022-02-16 13:04:36 INFO  Printflow:145 - PrintPdf option Available
+2022-02-16 13:04:36 INFO  Printflow:145 - In after test method ::Printflow
+2022-02-16 13:04:36 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-16 13:04:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2022-02-16 13:04:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-16 13:04:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-16 13:04:36 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/UXS1KOR/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-16 13:04:36 INFO  Printflow:145 - No child test to execute, flushing report
+2022-02-16 13:04:37 INFO  Printflow:145 - Terminate driver session in after test method
+2022-02-16 13:04:37 INFO  PrintSkill:145 - Starting before test method ::PrintSkill
+2022-02-16 13:04:37 INFO  PrintSkill:145 - **** Initializing drivers ****chrome 
+2022-02-16 13:04:37 INFO  PrintSkill:145 - Initializing driver session for local execution
+2022-02-16 13:04:39 INFO  PrintSkill:145 - Driver is initizialied
+2022-02-16 13:04:39 INFO  PrintSkill:145 - **** driver instance in Initializing drivers ****
+2022-02-16 13:04:39 INFO  PrintSkill:145 - Starting before test method ::PrintSkill
+2022-02-16 13:04:47 INFO  PrintSkill:145 - Navigate to url https://stage.boschtoolservice.com/by/ru/skil/spareparts/search
+2022-02-16 13:04:47 INFO  PrintSkill:145 - CloseConsent Element is displayed
+2022-02-16 13:04:47 INFO  PrintSkill:145 - click on element CloseConsent
+2022-02-16 13:04:47 INFO  PrintSkill:145 - Consent Closed
+2022-02-16 13:04:48 INFO  PrintSkill:145 - Input element is displayed
+2022-02-16 13:04:48 INFO  PrintSkill:145 - input Element is displayed
+2022-02-16 13:04:48 INFO  PrintSkill:145 - 0603270756 is entered in element input
+2022-02-16 13:04:48 INFO  PrintSkill:145 - search Element is displayed
+2022-02-16 13:04:50 INFO  PrintSkill:145 - click on element search
+2022-02-16 13:04:50 INFO  PrintSkill:145 - Input Field found
+2022-02-16 13:04:50 INFO  PrintSkill:145 - Application Opened Successfully and Baretool number foundhttps://stage.boschtoolservice.com/by/ru/skil/spareparts/search
+2022-02-16 13:04:50 WARN  PrintSkill:150 - Unable to locate webelement. Object Name: SingleFilter
+2022-02-16 13:04:55 INFO  PrintSkill:145 - wait for Object SingleFilter. Time:5 seconds
+2022-02-16 13:04:55 INFO  PrintSkill:145 - SingleFilter Element is displayed
+2022-02-16 13:04:57 INFO  PrintSkill:145 - click on element SingleFilter
+2022-02-16 13:04:57 INFO  PrintSkill:145 - Result Selected
+2022-02-16 13:05:03 INFO  PrintSkill:145 - ProductInformation element is displayed
+2022-02-16 13:05:03 INFO  PrintSkill:145 - ProductInformation Available
+2022-02-16 13:05:04 INFO  PrintSkill:145 - dremeladdtocart Element is displayed
+2022-02-16 13:05:04 INFO  PrintSkill:145 - click on element dremeladdtocart
+2022-02-16 13:05:05 INFO  PrintSkill:145 - dremeladdtocart Element is displayed
+2022-02-16 13:05:05 INFO  PrintSkill:145 - click on element dremeladdtocart
+2022-02-16 13:05:06 INFO  PrintSkill:145 - dremeladdtocart Element is displayed
+2022-02-16 13:05:06 INFO  PrintSkill:145 - click on element dremeladdtocart
+2022-02-16 13:05:07 INFO  PrintSkill:145 - dremeladdtocart Element is displayed
+2022-02-16 13:05:07 INFO  PrintSkill:145 - click on element dremeladdtocart
+2022-02-16 13:05:09 INFO  PrintSkill:145 - dremeladdtocart Element is displayed
+2022-02-16 13:05:09 INFO  PrintSkill:145 - click on element dremeladdtocart
+2022-02-16 13:05:15 INFO  PrintSkill:145 - Add to cart Successful
+2022-02-16 13:05:15 INFO  PrintSkill:145 - minishoppingcart Element is displayed
+2022-02-16 13:05:24 INFO  PrintSkill:145 - click on element minishoppingcart
+2022-02-16 13:05:24 INFO  PrintSkill:145 - Clicked on Minishopping cart
+2022-02-16 13:05:29 INFO  PrintSkill:145 - PrintPdf element is displayed
+2022-02-16 13:05:29 INFO  PrintSkill:145 - PrintPdf option Available
+2022-02-16 13:05:29 INFO  PrintSkill:145 - In after test method ::PrintSkill
+2022-02-16 13:05:29 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-16 13:05:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2022-02-16 13:05:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-16 13:05:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-16 13:05:29 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/UXS1KOR/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-16 13:05:29 INFO  PrintSkill:145 - No child test to execute, flushing report
+2022-02-16 13:05:29 INFO  PrintSkill:145 - Terminate driver session in after test method

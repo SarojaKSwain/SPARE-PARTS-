@@ -1,0 +1,189 @@
+2022-02-16 09:27:46 INFO  Logger:145 - Initializing JSON file and adding to framework
+2022-02-16 09:27:46 INFO  Logger:145 - Setting up run configuration
+2022-02-16 09:27:46 INFO  Eorderflow:145 - Starting before test method ::Eorderflow
+2022-02-16 09:27:46 INFO  Eorderflow:145 - **** Initializing drivers ****chrome 
+2022-02-16 09:27:46 INFO  Eorderflow:145 - Initializing driver session for local execution
+2022-02-16 09:27:49 INFO  Eorderflow:145 - Driver is initizialied
+2022-02-16 09:27:49 INFO  Eorderflow:145 - **** driver instance in Initializing drivers ****
+2022-02-16 09:27:49 INFO  Eorderflow:145 - Starting before test method ::Eorderflow
+2022-02-16 09:27:58 INFO  Eorderflow:145 - Navigate to url https://stage.boschtoolservice.com/lv/lv/boschdiy/spareparts/search
+2022-02-16 09:27:59 INFO  Eorderflow:145 - CloseConsent Element is displayed
+2022-02-16 09:27:59 INFO  Eorderflow:145 - click on element CloseConsent
+2022-02-16 09:27:59 INFO  Eorderflow:145 - Consent Closed
+2022-02-16 09:28:01 INFO  Eorderflow:145 - Input element is displayed
+2022-02-16 09:28:01 INFO  Eorderflow:145 - Input Field found
+2022-02-16 09:28:01 INFO  Eorderflow:145 - Application Opened Successfully and verified https://stage.boschtoolservice.com/lv/lv/boschdiy/spareparts/search
+2022-02-16 09:28:01 INFO  Eorderflow:145 - AdvancedSearch Element is displayed
+2022-02-16 09:28:02 INFO  Eorderflow:145 - click on element AdvancedSearch
+2022-02-16 09:28:02 INFO  Eorderflow:145 - Clicked on AdvancedSearch
+2022-02-16 09:28:03 INFO  Eorderflow:145 - Country ID Element is displayed
+2022-02-16 09:28:04 INFO  Eorderflow:145 - click on element Country ID
+2022-02-16 09:28:06 INFO  Eorderflow:145 - Country ID clicked
+2022-02-16 09:28:06 INFO  Eorderflow:145 - Country Value Element is displayed
+2022-02-16 09:28:06 INFO  Eorderflow:145 - click on element Country Value
+2022-02-16 09:28:07 INFO  Eorderflow:145 - Value success
+2022-02-16 09:28:07 INFO  Eorderflow:145 - Search Element is displayed
+2022-02-16 09:28:09 INFO  Eorderflow:145 - click on element Search
+2022-02-16 09:28:09 INFO  Eorderflow:145 - Clicked on Search
+2022-02-16 09:28:09 INFO  Eorderflow:145 - Result element is displayed
+2022-02-16 09:28:11 INFO  Eorderflow:145 - Results Displayed
+2022-02-16 09:28:11 INFO  Eorderflow:145 - Search Successful for 
+2022-02-16 09:28:11 INFO  Eorderflow:145 - FilterResult Element is displayed
+2022-02-16 09:28:13 INFO  Eorderflow:145 - click on element FilterResult
+2022-02-16 09:28:13 INFO  Eorderflow:145 - Selected First Row
+2022-02-16 09:28:19 INFO  Eorderflow:145 - ProductInformation element is displayed
+2022-02-16 09:28:19 INFO  Eorderflow:145 - ProductInformation Available
+2022-02-16 09:28:20 INFO  Eorderflow:145 - dremeladdtocart Element is displayed
+2022-02-16 09:28:20 INFO  Eorderflow:145 - click on element dremeladdtocart
+2022-02-16 09:28:21 INFO  Eorderflow:145 - dremeladdtocart Element is displayed
+2022-02-16 09:28:21 INFO  Eorderflow:145 - click on element dremeladdtocart
+2022-02-16 09:28:23 INFO  Eorderflow:145 - dremeladdtocart Element is displayed
+2022-02-16 09:28:23 INFO  Eorderflow:145 - click on element dremeladdtocart
+2022-02-16 09:28:24 INFO  Eorderflow:145 - dremeladdtocart Element is displayed
+2022-02-16 09:28:24 INFO  Eorderflow:145 - click on element dremeladdtocart
+2022-02-16 09:28:25 INFO  Eorderflow:145 - dremeladdtocart Element is displayed
+2022-02-16 09:28:25 INFO  Eorderflow:145 - click on element dremeladdtocart
+2022-02-16 09:28:31 INFO  Eorderflow:145 - Add to cart Successful
+2022-02-16 09:28:31 INFO  Eorderflow:145 - minishoppingcart Element is displayed
+2022-02-16 09:28:51 INFO  Eorderflow:145 - click on element minishoppingcart
+2022-02-16 09:28:51 INFO  Eorderflow:145 - Clicked on Minishopping cart
+2022-02-16 09:28:55 INFO  Eorderflow:145 - continueButton element is displayed
+2022-02-16 09:28:55 INFO  Eorderflow:145 - Continue option Available
+2022-02-16 09:29:20 INFO  Eorderflow:145 - continueButton Element is displayed
+2022-02-16 09:29:27 INFO  Eorderflow:145 - click on element continueButton
+2022-02-16 09:29:27 INFO  Eorderflow:145 - Clicked on Continue
+2022-02-16 09:29:28 INFO  Eorderflow:145 - save element is displayed
+2022-02-16 09:29:28 INFO  Eorderflow:145 - Navigated to Address Page
+2022-02-16 09:29:28 INFO  Eorderflow:145 - save Element is displayed
+2022-02-16 09:29:37 INFO  Eorderflow:145 - click on element save
+2022-02-16 09:29:38 INFO  Eorderflow:145 - Clicked on Save in Address Page
+2022-02-16 09:29:39 INFO  Eorderflow:145 - company Element is displayed
+2022-02-16 09:29:39 INFO  Eorderflow:145 - Audi is entered in element company
+2022-02-16 09:29:39 INFO  Eorderflow:145 - firstName Element is displayed
+2022-02-16 09:29:39 INFO  Eorderflow:145 - Saroj is entered in element firstName
+2022-02-16 09:29:39 INFO  Eorderflow:145 - surName Element is displayed
+2022-02-16 09:29:39 INFO  Eorderflow:145 - Swain is entered in element surName
+2022-02-16 09:29:39 INFO  Eorderflow:145 - street Element is displayed
+2022-02-16 09:29:39 INFO  Eorderflow:145 - Testing is entered in element street
+2022-02-16 09:29:39 INFO  Eorderflow:145 - houseNo Element is displayed
+2022-02-16 09:29:39 INFO  Eorderflow:145 - 27 is entered in element houseNo
+2022-02-16 09:29:39 INFO  Eorderflow:145 - postCode Element is displayed
+2022-02-16 09:29:40 INFO  Eorderflow:145 - 4765 is entered in element postCode
+2022-02-16 09:29:40 INFO  Eorderflow:145 - city Element is displayed
+2022-02-16 09:29:40 INFO  Eorderflow:145 - TestCenter is entered in element city
+2022-02-16 09:29:40 INFO  Eorderflow:145 - email Element is displayed
+2022-02-16 09:29:40 INFO  Eorderflow:145 - external.Saroja.KumarSwain@in.bosch.com is entered in element email
+2022-02-16 09:29:40 INFO  Eorderflow:145 - confirmEmail Element is displayed
+2022-02-16 09:29:40 INFO  Eorderflow:145 - external.Saroja.KumarSwain@in.bosch.com is entered in element confirmEmail
+2022-02-16 09:29:40 INFO  Eorderflow:145 - phoneNo Element is displayed
+2022-02-16 09:29:40 INFO  Eorderflow:145 - 1234567899 is entered in element phoneNo
+2022-02-16 09:29:40 INFO  Eorderflow:145 - Address Details entered Successfully
+2022-02-16 09:29:40 INFO  Eorderflow:145 - save Element is displayed
+2022-02-16 09:29:45 INFO  Eorderflow:145 - click on element save
+2022-02-16 09:29:46 INFO  Eorderflow:145 - Clicked on Save in Address Page
+2022-02-16 09:29:48 INFO  Eorderflow:145 - radio_eorder Element is displayed
+2022-02-16 09:29:48 INFO  Eorderflow:145 - click on element radio_eorder
+2022-02-16 09:29:48 INFO  Eorderflow:145 - Radio Button Clicked
+2022-02-16 09:29:48 INFO  Eorderflow:145 - checkbox_eorder Element is displayed
+2022-02-16 09:29:48 INFO  Eorderflow:145 - click on element checkbox_eorder
+2022-02-16 09:29:48 INFO  Eorderflow:145 - Checkbox Clicked
+2022-02-16 09:29:51 INFO  Eorderflow:145 - Submit Order Clicked Element is displayed
+2022-02-16 09:29:54 INFO  Eorderflow:145 - click on element Submit Order Clicked
+2022-02-16 09:29:54 INFO  Eorderflow:145 - Eorder_confirm element is displayed
+2022-02-16 09:29:54 INFO  Eorderflow:145 - Eorder_confirm Displayed
+2022-02-16 09:29:54 INFO  Eorderflow:145 - In after test method ::Eorderflow
+2022-02-16 09:29:54 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-16 09:29:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2022-02-16 09:29:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-16 09:29:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-16 09:29:54 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/UXS1KOR/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-16 09:29:55 INFO  Eorderflow:145 - No child test to execute, flushing report
+2022-02-16 09:29:56 INFO  Eorderflow:145 - Terminate driver session in after test method
+2022-02-16 09:29:56 INFO  EorderDremelflow:145 - Starting before test method ::EorderDremelflow
+2022-02-16 09:29:56 INFO  EorderDremelflow:145 - **** Initializing drivers ****chrome 
+2022-02-16 09:29:56 INFO  EorderDremelflow:145 - Initializing driver session for local execution
+2022-02-16 09:29:58 INFO  EorderDremelflow:145 - Driver is initizialied
+2022-02-16 09:29:58 INFO  EorderDremelflow:145 - **** driver instance in Initializing drivers ****
+2022-02-16 09:29:58 INFO  EorderDremelflow:145 - Starting before test method ::EorderDremelflow
+2022-02-16 09:30:06 INFO  EorderDremelflow:145 - Navigate to url https://stage.boschtoolservice.com/lv/lv/dremel/spareparts/search
+2022-02-16 09:30:06 INFO  EorderDremelflow:145 - CloseConsent Element is displayed
+2022-02-16 09:30:06 INFO  EorderDremelflow:145 - click on element CloseConsent
+2022-02-16 09:30:06 INFO  EorderDremelflow:145 - Consent Closed
+2022-02-16 09:30:07 INFO  EorderDremelflow:145 - Input element is displayed
+2022-02-16 09:30:07 INFO  EorderDremelflow:145 - input Element is displayed
+2022-02-16 09:30:07 INFO  EorderDremelflow:145 - F013020001 is entered in element input
+2022-02-16 09:30:07 INFO  EorderDremelflow:145 - search Element is displayed
+2022-02-16 09:30:09 INFO  EorderDremelflow:145 - click on element search
+2022-02-16 09:30:09 INFO  EorderDremelflow:145 - Input Field found
+2022-02-16 09:30:09 INFO  EorderDremelflow:145 - Application Opened Successfully and Baretool number foundhttps://stage.boschtoolservice.com/lv/lv/dremel/spareparts/search
+2022-02-16 09:30:09 INFO  EorderDremelflow:145 - SingleFilter Element is displayed
+2022-02-16 09:30:10 INFO  EorderDremelflow:145 - click on element SingleFilter
+2022-02-16 09:30:10 INFO  EorderDremelflow:145 - Result Selected
+2022-02-16 09:30:16 INFO  EorderDremelflow:145 - ProductInformation element is displayed
+2022-02-16 09:30:16 INFO  EorderDremelflow:145 - ProductInformation Available
+2022-02-16 09:30:17 INFO  EorderDremelflow:145 - dremeladdtocart Element is displayed
+2022-02-16 09:30:17 INFO  EorderDremelflow:145 - click on element dremeladdtocart
+2022-02-16 09:30:18 INFO  EorderDremelflow:145 - dremeladdtocart Element is displayed
+2022-02-16 09:30:19 INFO  EorderDremelflow:145 - click on element dremeladdtocart
+2022-02-16 09:30:20 INFO  EorderDremelflow:145 - dremeladdtocart Element is displayed
+2022-02-16 09:30:20 INFO  EorderDremelflow:145 - click on element dremeladdtocart
+2022-02-16 09:30:21 INFO  EorderDremelflow:145 - dremeladdtocart Element is displayed
+2022-02-16 09:30:21 INFO  EorderDremelflow:145 - click on element dremeladdtocart
+2022-02-16 09:30:22 INFO  EorderDremelflow:145 - dremeladdtocart Element is displayed
+2022-02-16 09:30:22 INFO  EorderDremelflow:145 - click on element dremeladdtocart
+2022-02-16 09:30:28 INFO  EorderDremelflow:145 - Add to cart Successful
+2022-02-16 09:30:28 INFO  EorderDremelflow:145 - minishoppingcart Element is displayed
+2022-02-16 09:30:37 INFO  EorderDremelflow:145 - click on element minishoppingcart
+2022-02-16 09:30:37 INFO  EorderDremelflow:145 - Clicked on Minishopping cart
+2022-02-16 09:30:41 INFO  EorderDremelflow:145 - continueButton element is displayed
+2022-02-16 09:30:41 INFO  EorderDremelflow:145 - Continue option Available
+2022-02-16 09:31:06 INFO  EorderDremelflow:145 - continueButton Element is displayed
+2022-02-16 09:31:10 INFO  EorderDremelflow:145 - click on element continueButton
+2022-02-16 09:31:10 INFO  EorderDremelflow:145 - Clicked on Continue
+2022-02-16 09:31:11 INFO  EorderDremelflow:145 - save element is displayed
+2022-02-16 09:31:11 INFO  EorderDremelflow:145 - Navigated to Address Page
+2022-02-16 09:31:11 INFO  EorderDremelflow:145 - save Element is displayed
+2022-02-16 09:31:12 INFO  EorderDremelflow:145 - click on element save
+2022-02-16 09:31:13 INFO  EorderDremelflow:145 - Clicked on Save in Address Page
+2022-02-16 09:31:14 INFO  EorderDremelflow:145 - company Element is displayed
+2022-02-16 09:31:14 INFO  EorderDremelflow:145 - Audi is entered in element company
+2022-02-16 09:31:14 INFO  EorderDremelflow:145 - firstName Element is displayed
+2022-02-16 09:31:14 INFO  EorderDremelflow:145 - Saroj is entered in element firstName
+2022-02-16 09:31:14 INFO  EorderDremelflow:145 - surName Element is displayed
+2022-02-16 09:31:14 INFO  EorderDremelflow:145 - Swain is entered in element surName
+2022-02-16 09:31:14 INFO  EorderDremelflow:145 - street Element is displayed
+2022-02-16 09:31:14 INFO  EorderDremelflow:145 - Testing is entered in element street
+2022-02-16 09:31:14 INFO  EorderDremelflow:145 - houseNo Element is displayed
+2022-02-16 09:31:14 INFO  EorderDremelflow:145 - 27 is entered in element houseNo
+2022-02-16 09:31:14 INFO  EorderDremelflow:145 - postCode Element is displayed
+2022-02-16 09:31:14 INFO  EorderDremelflow:145 - 4765 is entered in element postCode
+2022-02-16 09:31:15 INFO  EorderDremelflow:145 - city Element is displayed
+2022-02-16 09:31:15 INFO  EorderDremelflow:145 - TestCenter is entered in element city
+2022-02-16 09:31:15 INFO  EorderDremelflow:145 - email Element is displayed
+2022-02-16 09:31:15 INFO  EorderDremelflow:145 - external.Saroja.KumarSwain@in.bosch.com is entered in element email
+2022-02-16 09:31:15 INFO  EorderDremelflow:145 - confirmEmail Element is displayed
+2022-02-16 09:31:15 INFO  EorderDremelflow:145 - external.Saroja.KumarSwain@in.bosch.com is entered in element confirmEmail
+2022-02-16 09:31:15 INFO  EorderDremelflow:145 - phoneNo Element is displayed
+2022-02-16 09:31:15 INFO  EorderDremelflow:145 - 1234567899 is entered in element phoneNo
+2022-02-16 09:31:15 INFO  EorderDremelflow:145 - Address Details entered Successfully
+2022-02-16 09:31:15 INFO  EorderDremelflow:145 - save Element is displayed
+2022-02-16 09:31:17 INFO  EorderDremelflow:145 - click on element save
+2022-02-16 09:31:18 INFO  EorderDremelflow:145 - Clicked on Save in Address Page
+2022-02-16 09:31:20 INFO  EorderDremelflow:145 - radio_eorder Element is displayed
+2022-02-16 09:31:20 INFO  EorderDremelflow:145 - click on element radio_eorder
+2022-02-16 09:31:20 INFO  EorderDremelflow:145 - Radio Button Clicked
+2022-02-16 09:31:20 INFO  EorderDremelflow:145 - checkbox_eorder Element is displayed
+2022-02-16 09:31:20 INFO  EorderDremelflow:145 - click on element checkbox_eorder
+2022-02-16 09:31:20 INFO  EorderDremelflow:145 - Checkbox Clicked
+2022-02-16 09:31:22 INFO  EorderDremelflow:145 - Submit Order Clicked Element is displayed
+2022-02-16 09:31:26 INFO  EorderDremelflow:145 - click on element Submit Order Clicked
+2022-02-16 09:31:26 INFO  EorderDremelflow:145 - Eorder_confirm element is displayed
+2022-02-16 09:31:26 INFO  EorderDremelflow:145 - Eorder_confirm Displayed
+2022-02-16 09:31:26 INFO  EorderDremelflow:145 - In after test method ::EorderDremelflow
+2022-02-16 09:31:26 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-16 09:31:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2022-02-16 09:31:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-16 09:31:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-16 09:31:26 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/UXS1KOR/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-16 09:31:26 INFO  EorderDremelflow:145 - No child test to execute, flushing report
+2022-02-16 09:31:27 INFO  EorderDremelflow:145 - Terminate driver session in after test method

@@ -1,0 +1,74 @@
+2022-02-17 11:13:12 INFO  Logger:145 - Initializing JSON file and adding to framework
+2022-02-17 11:13:12 INFO  Logger:145 - Setting up run configuration
+2022-02-17 11:13:12 INFO  Printflow:145 - Starting before test method ::Printflow
+2022-02-17 11:13:12 INFO  Printflow:145 - **** Initializing drivers ****chrome 
+2022-02-17 11:13:12 INFO  Printflow:145 - Initializing driver session for local execution
+2022-02-17 11:13:15 INFO  Printflow:145 - Driver is initizialied
+2022-02-17 11:13:15 INFO  Printflow:145 - **** driver instance in Initializing drivers ****
+2022-02-17 11:13:15 INFO  Printflow:145 - Starting before test method ::Printflow
+2022-02-17 11:13:21 INFO  Printflow:145 - Navigate to url https://stage.boschtoolservice.com/us/en/boschprof/spareparts/search
+2022-02-17 11:13:21 INFO  Printflow:145 - CloseConsent Element is displayed
+2022-02-17 11:13:21 INFO  Printflow:145 - click on element CloseConsent
+2022-02-17 11:13:21 INFO  Printflow:145 - Consent Closed
+2022-02-17 11:13:22 INFO  Printflow:145 - Input element is displayed
+2022-02-17 11:13:22 INFO  Printflow:145 - input Element is displayed
+2022-02-17 11:13:22 INFO  Printflow:145 - 0600845B50 is entered in element input
+2022-02-17 11:13:23 INFO  Printflow:145 - search Element is displayed
+2022-02-17 11:13:24 INFO  Printflow:145 - click on element search
+2022-02-17 11:13:24 INFO  Printflow:145 - Input Field found
+2022-02-17 11:13:24 INFO  Printflow:145 - Application Opened Successfully and Baretool number foundhttps://stage.boschtoolservice.com/us/en/boschprof/spareparts/search
+2022-02-17 11:13:24 INFO  Printflow:145 - SingleFilter Element is displayed
+2022-02-17 11:13:25 INFO  Printflow:145 - click on element SingleFilter
+2022-02-17 11:13:25 INFO  Printflow:145 - Result Selected
+2022-02-17 11:13:31 INFO  Printflow:145 - ProductInformation element is displayed
+2022-02-17 11:13:31 INFO  Printflow:145 - ProductInformation Available
+2022-02-17 11:13:32 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-17 11:13:33 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-17 11:13:34 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-17 11:13:34 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-17 11:13:35 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-17 11:13:35 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-17 11:13:36 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-17 11:13:37 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-17 11:13:38 INFO  Printflow:145 - dremeladdtocart Element is displayed
+2022-02-17 11:13:39 INFO  Printflow:145 - click on element dremeladdtocart
+2022-02-17 11:13:45 INFO  Printflow:145 - Add to cart Successful
+2022-02-17 11:13:45 INFO  Printflow:145 - minishoppingcart Element is displayed
+2022-02-17 11:13:54 INFO  Printflow:145 - click on element minishoppingcart
+2022-02-17 11:13:54 INFO  Printflow:145 - Clicked on Minishopping cart
+2022-02-17 11:13:58 WARN  Printflow:150 - Unable to locate webelement. Object Name: PrintPdf
+2022-02-17 11:13:58 ERROR Printflow:147 - PrintPdf element is not displayed Exception: null
+java.lang.Throwable: PrintPdf element is not displayed Exception: null
+	at reportingLibrary.Logger.log(Logger.java:147)
+	at supportLibrary.CommonFunction.elementIsDisplayed(CommonFunction.java:99)
+	at pages.web.AdvancedSearch.minishoppingcartPrint(AdvancedSearch.java:373)
+	at test.Print_RU_US.Printflow(Print_RU_US.java:19)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2022-02-17 11:13:58 ERROR Printflow:85 - PrintPdf option Not Available
+2022-02-17 11:13:58 INFO  Printflow:145 - In after test method ::Printflow
+2022-02-17 11:13:58 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-17 11:13:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2022-02-17 11:13:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-17 11:13:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-17 11:13:58 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/UXS1KOR/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-17 11:13:59 INFO  Printflow:145 - No child test to execute, flushing report
+2022-02-17 11:13:59 INFO  Printflow:145 - Terminate driver session in after test method

@@ -1,0 +1,256 @@
+{
+"AUS":{
+"path":"/au/en",
+"Country Value ID":"LAM",
+"PostalCode":"4774"
+},
+"ITALY":{
+"path":"/it/it",
+"Country Value ID":"RC",
+"PostalCode":"45678",
+"VAT":"1234567"
+},
+"GB":{
+"path":"/gb/en",
+"Country Value ID":"RC",
+"PostalCode":"L1 8JQ"
+},
+"FR":{
+"path":"/fr/fr",
+"Country Value ID":"ZA",
+"PostalCode":"75008"
+},
+"AT":{
+"path":"/at/de",
+"Country Value ID":"BR",
+"PostalCode":"1050"
+},
+"CH":{
+"path":"/ch/de",
+"Country Value ID":"CDN",
+"PostalCode":"8090"
+},
+"CZ":{
+"path":"/cz/cs",
+"Country Value ID":"CH",
+"PostalCode":"108 00"
+},
+"SK":{
+"path":"/sk/sk",
+"Country Value ID":"CN",
+"PostalCode":"010 01"
+},
+"DE":{
+"path":"/de/de",
+"Country Value ID":"D",
+"PostalCode":"47999"
+},
+"FI":{
+"path":"/fi/fi",
+"Country Value ID":"DK",
+"PostalCode":"00009"
+},
+"DK":{
+"path":"/dk/da",
+"Country Value ID":"E",
+"PostalCode":"4999"
+},
+"SE":{
+"path":"/se/sv",
+"Country Value ID":"F",
+"PostalCode":"113 51"
+},
+"ES":{
+"path":"/es/es",
+"Country Value ID":"GR",
+"PostalCode":"45678",
+"VAT":"123456789"
+},
+"PT":{
+"path":"/pt/pt",
+"Country Value ID":"HK",
+"PostalCode":"4000-408",
+"VAT":"123456789"
+},
+"NL":{
+"path":"/nl/nl",
+"Country Value ID":"I",
+"PostalCode":"1000 AA"
+},
+"BE":{
+"path":"/be/fr",
+"Country Value ID":"IL",
+"PostalCode":"4567"
+},
+"LV":{
+"path":"/lv/lv",
+"Country Value ID":"ROK",
+"PostalCode":"4765",
+"VAT":"123456789"
+},
+"EE":{
+"path":"/ee/et",
+"Country Value ID":"S",
+"PostalCode":"47658"
+},
+"LT":{
+"path":"/lt/lt",
+"Country Value ID":"SAM",
+"PostalCode":"47659"
+},
+"HR":{
+"path":"/hr/hr",
+"Country Value ID":"SKA",
+"PostalCode":"45678"
+},
+"SI":{
+"path":"/si/sl",
+"Country Value ID":"ZA",
+"PostalCode":"9876"
+},
+"RO":{
+"path":"/ro/ro",
+"Country Value ID":"RU",
+"PostalCode":"500454"
+},
+"PL":{
+"path":"/pl/pl",
+"Country Value ID":"ROK",
+"PostalCode":"02-002"
+},
+"RS":{
+"path":"/rs/sr",
+"Country Value ID":"ROK",
+"PostalCode":"21240"
+},
+"NZ":{
+"path":"/nz/en",
+"Country Value ID":"USA"
+},
+"RU":{
+"path":"/ru/ru",
+"Country Value ID":"USA"
+},
+"TR":{
+"path":"/tr/tr",
+"Country Value ID":"USA"
+},
+"US":{
+"path":"/us/en",
+"Country Value ID":"USA"
+},
+"CA":{
+"path":"/ca/fr",
+"Country Value ID":"USA"
+},
+"SG":{
+"path":"/sg/en",
+"Country Value ID":"USA"
+},
+"BG":{
+"path":"/bg/bg",
+"Country Value ID":"IL"
+},
+"GR":{
+"path":"/gr/el",
+"Country Value ID":"IL"
+},
+"IE":{
+"path":"/ie/en",
+"Country Value ID":"IL"
+},
+"NO":{
+"path":"/no/no",
+"Country Value ID":"IL"
+},
+"ZA":{
+"path":"/za/en",
+"Country Value ID":"IL"
+},
+"BR":{
+"path":"/br/pt",
+"Country Value ID":"IL"
+},
+"CO":{
+"path":"/co/es",
+"Country Value ID":"IL"
+},
+"CL":{
+"path":"/cl/es",
+"Country Value ID":"IL"
+},
+"MX":{
+"path":"/mx/es",
+"Country Value ID":"IL"
+},
+"HU":{
+"path":"/hu/hu",
+"Country Value ID":"IL"
+},
+"UA":{
+"path":"/ua/uk",
+"Country Value ID":"IL"
+},
+"KZ":{
+"path":"/kz/ru",
+"Country Value ID":"IL"
+},
+"BY":{
+"path":"/by/ru",
+"Country Value ID":"IL"
+},
+"IN":{
+"path":"/in/en",
+"Country Value ID":"IND"
+},
+"HK":{
+"path":"/hk/zh",
+"Country Value ID":"IL"
+},
+"CN":{
+"path":"/cn/zh",
+"Country Value ID":"IL"
+},
+"JP":{
+"path":"/jp/ja",
+"Country Value ID":"IL"
+},
+"ID":{
+"path":"/id/en",
+"Country Value ID":"IL"
+},
+"KR":{
+"path":"/kr/ko",
+"Country Value ID":"IL"
+},
+"TW":{
+"path":"/tw/zh",
+"Country Value ID":"IL"
+},
+"PH":{
+"path":"/ph/en",
+"Country Value ID":"IL"
+},
+"VN":{
+"path":"/vn/en",
+"Country Value ID":"IL"
+},
+"MY":{
+"path":"/my/en",
+"Country Value ID":"IL"
+},
+"TH":{
+"path":"/th/th",
+"Country Value ID":"IL"
+},
+"LVE":{
+"path":"/lv/en",
+"Country Value ID":"IL"
+},
+"AR":{
+"path":"/ar/es",
+"Country Value ID":"AR",
+"PostalCode":"4765",
+"VAT":"123456789"
+}
+}

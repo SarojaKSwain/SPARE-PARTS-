@@ -1,0 +1,59 @@
+2022-02-17 11:06:17 INFO  Logger:145 - Initializing JSON file and adding to framework
+2022-02-17 11:06:17 INFO  Logger:145 - Setting up run configuration
+2022-02-17 11:06:17 INFO  Printflows:145 - Starting before test method ::Printflows
+2022-02-17 11:06:17 INFO  Printflows:145 - **** Initializing drivers ****chrome 
+2022-02-17 11:06:17 INFO  Printflows:145 - Initializing driver session for local execution
+2022-02-17 11:06:20 INFO  Printflows:145 - Driver is initizialied
+2022-02-17 11:06:20 INFO  Printflows:145 - **** driver instance in Initializing drivers ****
+2022-02-17 11:06:20 INFO  Printflows:145 - Starting before test method ::Printflows
+2022-02-17 11:06:27 INFO  Printflows:145 - Navigate to url https://stage.boschtoolservice.com/nz/en/bosch-pt/spareparts/search
+2022-02-17 11:06:28 INFO  Printflows:145 - CloseConsent Element is displayed
+2022-02-17 11:06:28 INFO  Printflows:145 - click on element CloseConsent
+2022-02-17 11:06:28 INFO  Printflows:145 - Consent Closed
+2022-02-17 11:06:30 INFO  Printflows:145 - Input element is displayed
+2022-02-17 11:06:30 INFO  Printflows:145 - Input Field found
+2022-02-17 11:06:30 INFO  Printflows:145 - Application Opened Successfully and verified https://stage.boschtoolservice.com/nz/en/bosch-pt/spareparts/search
+2022-02-17 11:06:30 INFO  Printflows:145 - AdvancedSearch Element is displayed
+2022-02-17 11:06:31 INFO  Printflows:145 - click on element AdvancedSearch
+2022-02-17 11:06:31 INFO  Printflows:145 - Clicked on AdvancedSearch
+2022-02-17 11:06:32 INFO  Printflows:145 - Country ID Element is displayed
+2022-02-17 11:06:32 INFO  Printflows:145 - click on element Country ID
+2022-02-17 11:06:34 INFO  Printflows:145 - Country ID clicked
+2022-02-17 11:06:34 INFO  Printflows:145 - Country Value Element is displayed
+2022-02-17 11:06:34 INFO  Printflows:145 - click on element Country Value
+2022-02-17 11:06:35 INFO  Printflows:145 - Value success
+2022-02-17 11:06:35 INFO  Printflows:145 - Search Element is displayed
+2022-02-17 11:06:37 INFO  Printflows:145 - click on element Search
+2022-02-17 11:06:37 INFO  Printflows:145 - Clicked on Search
+2022-02-17 11:06:37 INFO  Printflows:145 - Result element is displayed
+2022-02-17 11:06:39 INFO  Printflows:145 - Results Displayed
+2022-02-17 11:06:39 INFO  Printflows:145 - Search Successful for 
+2022-02-17 11:06:39 INFO  Printflows:145 - FilterResult Element is displayed
+2022-02-17 11:06:40 INFO  Printflows:145 - click on element FilterResult
+2022-02-17 11:06:40 INFO  Printflows:145 - Selected First Row
+2022-02-17 11:06:46 INFO  Printflows:145 - ProductInformation element is displayed
+2022-02-17 11:06:46 INFO  Printflows:145 - ProductInformation Available
+2022-02-17 11:06:48 INFO  Printflows:145 - dremeladdtocart Element is displayed
+2022-02-17 11:06:48 INFO  Printflows:145 - click on element dremeladdtocart
+2022-02-17 11:06:49 INFO  Printflows:145 - dremeladdtocart Element is displayed
+2022-02-17 11:06:49 INFO  Printflows:145 - click on element dremeladdtocart
+2022-02-17 11:06:50 INFO  Printflows:145 - dremeladdtocart Element is displayed
+2022-02-17 11:06:50 INFO  Printflows:145 - click on element dremeladdtocart
+2022-02-17 11:06:51 INFO  Printflows:145 - dremeladdtocart Element is displayed
+2022-02-17 11:06:51 INFO  Printflows:145 - click on element dremeladdtocart
+2022-02-17 11:06:53 INFO  Printflows:145 - dremeladdtocart Element is displayed
+2022-02-17 11:06:53 INFO  Printflows:145 - click on element dremeladdtocart
+2022-02-17 11:06:59 INFO  Printflows:145 - Add to cart Successful
+2022-02-17 11:06:59 INFO  Printflows:145 - minishoppingcart Element is displayed
+2022-02-17 11:07:08 INFO  Printflows:145 - click on element minishoppingcart
+2022-02-17 11:07:08 INFO  Printflows:145 - Clicked on Minishopping cart
+2022-02-17 11:07:12 INFO  Printflows:145 - PrintPdf element is displayed
+2022-02-17 11:07:12 INFO  Printflows:145 - PrintPdf option Available
+2022-02-17 11:07:12 INFO  Printflows:145 - In after test method ::Printflows
+2022-02-17 11:07:12 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-17 11:07:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2022-02-17 11:07:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-17 11:07:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-17 11:07:12 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/UXS1KOR/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-17 11:07:12 INFO  Printflows:145 - No child test to execute, flushing report
+2022-02-17 11:07:13 INFO  Printflows:145 - Terminate driver session in after test method

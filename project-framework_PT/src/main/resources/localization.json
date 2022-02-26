@@ -1,0 +1,89 @@
+{
+"AUS":{
+"Country ID":"Country ID"
+},
+"ITALY":{
+"Country ID":"Paese ID"
+},
+"GB":{
+"Country ID":"Country ID"
+},
+"FR":{
+"Country ID":"Pays"
+},
+"AT":{
+"Country ID":"Land"
+},
+"CH":{
+"Country ID":"Land"
+},
+"CZ":{
+"Country ID":"Stát ID"
+},
+"SK":{
+"Country ID":"Kód krajiny"
+},
+"DE":{
+"Country ID":"Land"
+},
+"FI":{
+"Country ID":"Maa ID"
+},
+"DK":{
+"Country ID":"Lande ID"
+},
+"SE":{
+"Country ID":"Länder ID"
+},
+"ES":{
+"Country ID":"ID de país"
+},
+"PT":{
+"Country ID":"Países ID"
+},
+"NL":{
+"Country ID":"Landen ID"
+},
+"BE":{
+"Country ID":"Pays"
+},
+"LV":{
+"Country ID":"Valsts ID"
+},
+"EE":{
+"Country ID":"Riigi ID"
+},
+"LT":{
+"Country ID":"Šalies ID"
+},
+"HR":{
+"Country ID":"Zemlja ID"
+},
+"SI":{
+"Country ID":"ID države"
+},
+"RS":{
+"Country ID":"ID Zemlje"
+},
+"PL":{
+"Country ID":"ID kraju"
+},
+"NZ":{
+"Country ID":"Country ID"
+},
+"TR":{
+"Country ID":"Ülke ID"
+},
+"US":{
+"Country ID":"Country ID"
+},
+"CA":{
+"Country ID":"Pays"
+},
+"SG":{
+"Country ID":"Country ID"
+},
+"AR":{
+"Country ID":"ID de país"
+}
+}

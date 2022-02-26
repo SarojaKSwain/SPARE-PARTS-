@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="test.Print_Skill">
+        <methods>
+          <include name="PrintSkill"/>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- test.Print_Skill -->
+      <class name="test.Skill_Closed">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+          <include name="SkillNavigation"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- test.Skill_Closed -->
+      <class name="test.Print_NoPDF">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="Printflows"/>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- test.Print_NoPDF -->
+      <class name="test.Print_Dremel">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="PrintDremel"/>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- test.Print_Dremel -->
+      <class name="test.ParallelTest">
+        <methods>
+          <include name="GooglePage"/>
+          <include name="TestTwoDriverInst"/>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+          <include name="YoutubePage"/>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- test.ParallelTest -->
+      <class name="test.Eshop_Validation">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="Validation"/>
+          <include name="ValidationDremel"/>
+          <include name="afterClass"/>
+          <include name="ValidationSkill"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- test.Eshop_Validation -->
+      <class name="test.Filter_Validation">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="Filter_Products"/>
+          <include name="Filter_Voltage"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- test.Filter_Validation -->
+      <class name="test.Print_Eorder_Validation">
+        <methods>
+          <include name="ValidationSkill"/>
+          <include name="ValidationDremel"/>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="Validation"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- test.Print_Eorder_Validation -->
+      <class name="test.Eorder_Poland">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+          <include name="Eorderflow"/>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- test.Eorder_Poland -->
+      <class name="test.Eorder_Skill">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="EorderSkillflow"/>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- test.Eorder_Skill -->
+      <class name="test.Eshop_Italy_TAX">
+        <methods>
+          <include name="Eshopflow"/>
+          <include name="SkillEshop"/>
+          <include name="beforeClass"/>
+          <include name="DremelEshop"/>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- test.Eshop_Italy_TAX -->
+      <class name="test.Dremel">
+        <methods>
+          <include name="DremelEshop"/>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- test.Dremel -->
+      <class name="test.Eorder_Serbia">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="Eorderflow"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- test.Eorder_Serbia -->
+      <class name="test.Explosion_Diagram">
+        <methods>
+          <include name="SkillEshop"/>
+          <include name="Explosion"/>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="Explosion_Headers"/>
+          <include name="beforeSuite"/>
+          <include name="DremelEshop"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- test.Explosion_Diagram -->
+      <class name="test.SampleTestBrowser">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+          <include name="SampleTestMethod"/>
+          <include name="SampleTestMethod3"/>
+          <include name="beforeMethod"/>
+          <include name="SampleTestMethod2"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- test.SampleTestBrowser -->
+      <class name="test.Print_RU_US">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="PrintDremel"/>
+          <include name="Printflow"/>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="PrintSkill"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- test.Print_RU_US -->
+      <class name="test.Eorder">
+        <methods>
+          <include name="Eorderflow"/>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- test.Eorder -->
+      <class name="test.Eshop">
+        <methods>
+          <include name="Eshopflow"/>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- test.Eshop -->
+      <class name="test.Eorder_DREMEL">
+        <methods>
+          <include name="EorderDremelflow"/>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- test.Eorder_DREMEL -->
+      <class name="test.Skill">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="SkillEshop"/>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- test.Skill -->
+      <class name="test.Eshop_TAX_Mandatory">
+        <methods>
+          <include name="Eshopflow"/>
+          <include name="beforeClass"/>
+          <include name="DremelEshop"/>
+          <include name="SkillEshop"/>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- test.Eshop_TAX_Mandatory -->
+      <class name="test.Eorder_Romania">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="Eorderflow_RO"/>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- test.Eorder_Romania -->
+      <class name="test.Eshop_SK_CZ">
+        <methods>
+          <include name="SkillEshop"/>
+          <include name="DremelEshop"/>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="Eshopflow"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- test.Eshop_SK_CZ -->
+      <class name="test.Print">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="Printflow"/>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- test.Print -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

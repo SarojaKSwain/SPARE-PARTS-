@@ -1,0 +1,6 @@
+{
+	"localexecution": {
+		"device1_server": "http://0.0.0.0:4723/wd/hub",
+		"device1_WDAport": 0
+	}
+}

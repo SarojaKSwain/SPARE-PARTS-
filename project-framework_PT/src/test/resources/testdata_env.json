@@ -1,0 +1,19 @@
+{
+
+	"testdata_D":{
+		"url":"http://www.google.com",
+		"apiHost":"endpoint host",
+		"user1":{
+			"username":"",
+			"password":""
+		}
+},
+"testdata_Q":{
+		"url":"https://stage.boschtoolservice.com",
+		"apiHost":"endpoint host",
+		"user1":{
+			"username":"",
+			"password":""
+		}
+}
+}
